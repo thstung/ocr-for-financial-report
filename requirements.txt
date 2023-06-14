@@ -1,0 +1,11 @@
+torch
+torchvision
+pillow
+numpy
+opencv-python
+pandas
+matplotlib
+vietocr
+paddleocr
+pdf2image
+paddlepaddle
